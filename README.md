@@ -12,3 +12,5 @@ Que por sua vez, faz parte da Alura.
 ## Todo o código é funcional e executável
 
 Sinta-se à vontade para explorar e manipular todo o código presente no repositório, fica ao seu critério.
+
+Obs: Este projeto é focado em JavaScript, todo o restante foi feito pela equipe do Curso.
